@@ -247,6 +247,7 @@ input{
     position: relative;
     right: 8px;
     bottom: 36px;
+    font-weight: 300;
 }
 .footer_bar{
     position: relative;
